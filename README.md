@@ -27,17 +27,17 @@
 
 🛠**Tech Stack**
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
+  ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap)
+  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+  ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
-![postgresql](https://img.shields.io/badge/postgresql-000000?style=flat-square&logo=postgresql)
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
+  ![postgresql](https://img.shields.io/badge/postgresql-000000?style=flat-square&logo=postgresql)
 
 <h3 align="left">Connect me through:</h3>
 <p align="left">
