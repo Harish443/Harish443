@@ -1,5 +1,5 @@
 <img align="center" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1703/karpenkoilia170300025/74775026-vector-line-web-concept-for-programming-modern-linear-banner.jpg" alt="hlo" height="350" width="100%">
-<img align="right" src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif" alt="Coder GIF" width="420" height="750">
+<img align="right" src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif" alt="Coder GIF" width="400" height="750">
 
 <h1 align="center">Hi 👋 Nice to meet you.<br></h1>
  <h2 align="center"> I'm Harish S</h2>
