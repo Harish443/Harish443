@@ -1,5 +1,5 @@
 <img align="center" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1703/karpenkoilia170300025/74775026-vector-line-web-concept-for-programming-modern-linear-banner.jpg" alt="hlo" height="350" width="100%">
-<img align="right" src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif" alt="Coder GIF" width="400" height="700">
+<img align="right" src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif" alt="Coder GIF" width="400" height="730">
 
 <h1 align="center">Hi 👋 Nice to meet you.<br></h1>
  <h2 align="center"> I'm Harish S</h2>
@@ -48,7 +48,7 @@
 <a href="https://www.hackerrank.com/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="harish s" height="30" width="130" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="240" width="370" /></p><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="240" width="400" /></p><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish443&show_icons=true&theme=radical)
 
