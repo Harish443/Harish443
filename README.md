@@ -48,9 +48,12 @@
 <a href="https://www.hackerrank.com/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="harish s" height="30" width="130" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="250" width="355" /></p><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="270" width="355" /></p><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish443&show_icons=true&theme=radical)
+
+<br>
+<br> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harish443&label=Profile%20views&color=0e75b6&style=flat" alt="harish443" /> </p>
 
