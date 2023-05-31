@@ -39,18 +39,18 @@
   ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
   ![postgresql](https://img.shields.io/badge/postgresql-000000?style=flat-square&logo=postgresql)
 
-<h3 align="left">Connect me through:</h3>
-<p align="left">
+<h3 align="center"> 🤞 Connect me through ✌</h3>
+<p align="center">
 <a href="https://linkedin.com/in/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harish s" height="30" width="100" /></a>
-<a href="https://instagram.com/_crazy_prince_2003_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_crazy_prince_2003_" height="30" width="100" /></a>
-<a href="https://www.hackerrank.com/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="harish s" height="30" width="100" /></a>
+<a href="https://instagram.com/_crazy_prince_2003_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_crazy_prince_2003_" height="30" width="110" /></a>
+<a href="https://www.hackerrank.com/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="harish s" height="30" width="130" /></a>
 </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" /></p><br>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=harish443&show_icons=true&locale=en&layout=compact" alt="harish443" height="240" width="420" /></p><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish443&show_icons=true&locale=en" alt="harish443" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harish443&show_icons=true&theme=radical)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=harish443&label=Profile%20views&color=0e75b6&style=flat" alt="harish443" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=harish443&label=Profile%20views&color=0e75b6&style=flat" alt="harish443" /> </p>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Harish443&column=-1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
