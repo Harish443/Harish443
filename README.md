@@ -56,6 +56,3 @@
 <br> 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harish443&label=Profile%20views&color=0e75b6&style=flat" alt="harish443" /> </p>
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Harish443&column=-1&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
