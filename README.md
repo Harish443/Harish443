@@ -2,7 +2,7 @@
 <img align="right" src="https://37.media.tumblr.com/a5b210865cf400a21f2b8fb912c12775/tumblr_n9p276dJa91shpedgo1_400.gif" alt="Coder GIF" width="400" height="720">
 
 <h1 align="center">Hi 👋 Nice to meet you.<br></h1>
- <h2 align="center"> I'm Harish S</h2>
+<h2 align="center"> I'm Harish S</h2>
 
 <h3 align="center">I'm an philomath 💖</h3>
 
@@ -41,7 +41,7 @@
   
   <br>
 
-<h3 align="center"> 🤞 Connect me through ✌</h3>
+<h3 align="center"> 🤞 Connect me through 🤟</h3>
 <p align="center">
 <a href="https://linkedin.com/in/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harish s" height="30" width="100" /></a>
 <a href="https://instagram.com/_crazy_prince_2003_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_crazy_prince_2003_" height="30" width="110" /></a>
