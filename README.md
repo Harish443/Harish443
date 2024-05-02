@@ -22,6 +22,7 @@
 - Deep Learing 😃
 - Data Science 😬
 - SQL 🧐
+  
 
 <br> 
 
@@ -38,7 +39,8 @@
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=tensorflow)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat&logo=pytorch)
   ![postgresql](https://img.shields.io/badge/postgresql-000000?style=flat-square&logo=postgresql)
-  
+
+  [![LeetCode user Harish443](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LEET%20CODE&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FHarish443&logo=leetcode&logoColor=yellow)](https://leetcode.com/Harish443/)
   <br>
 
 <h3 align="center"> 🤞 Connect me through 🤟</h3>
