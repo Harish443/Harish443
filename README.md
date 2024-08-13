@@ -45,7 +45,7 @@
 
 <h3 align="center"> 🤞 Connect me through 🤟</h3>
 <p align="center">
-<a href="https://linkedin.com/in/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harish s" height="30" width="100" /></a>
+<a href="https://www.linkedin.com/in/harish443/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harish s" height="30" width="100" /></a>
 <a href="https://instagram.com/_crazy_prince_2003_" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="_crazy_prince_2003_" height="30" width="110" /></a>
 <a href="https://www.hackerrank.com/harish s" target="blank"><img align="center" src="https://img.shields.io/badge/HackerRank-00EA64.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="harish s" height="30" width="130" /></a>
 </p>
